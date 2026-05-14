@@ -1,0 +1,3 @@
+-keep class com.google.firebase.** { *; }
+-keep class com.karunadavanya.app.data.** { *; }
+-dontwarn okhttp3.**
